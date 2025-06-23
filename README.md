@@ -1,6 +1,6 @@
 # 📝 To-Do List App
 
-A simple and clean To-Do List web app made with vanilla HTML, CSS, and JavaScript.
+A simple and clean To-Do List web app made with HTML, CSS, and JavaScript.
 
 ## Features
 - Add, delete, and complete tasks
